@@ -1,0 +1,4 @@
+2024-11-15 18:15:03 INFO  log4j_propertyconfigurator:12 - Info
+2024-11-15 18:15:03 WARN  log4j_propertyconfigurator:13 - Warning
+2024-11-15 18:15:03 ERROR log4j_propertyconfigurator:14 - Error
+2024-11-15 18:15:03 FATAL log4j_propertyconfigurator:15 - Fatal
